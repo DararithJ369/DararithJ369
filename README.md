@@ -17,3 +17,27 @@ I'm a third-year Data Science student at the [Institute of Technology of Cambodi
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQ2eDJma21oZzBiNDJvdnVuOWtmbXM4OW55MjM1MmNvY3Z1am5yMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kBvJzDM1qZv3QPhabt/giphy.gif" width="15"> I'm enger to join new project
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQzb294b2E5N2FxeGtxNTU2dXF6anF0b3FuZXliMHhqN2lvMXU4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AbTpg2l7tVn3mpsAU8/giphy.gif" width="15"> Happy to connect and help—don’t hesitate to ask if you need anything!
+
+### Contact Me <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtoMHc2dnQyandhZHQwbmd0djVqc2xwcHJnOXpudmc5NHgzaGNlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vVegyymxA90fkY8jkE/giphy.gif" width="25" >
+<div align="left">
+  <a href="kimputdararith@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/Kim Putdararith" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>&nbsp;
+  <a href="https://github.com/DararithJ369" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>&nbsp;
+  <a href="https://twitter.com/jack1ee_33" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>&nbsp;
+  <a href="https://instagram.com/nomoretruettt__" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>&nbsp;
+  <a href="https://youtube.com/@jackie-8844" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>&nbsp;
+</div>
+<br/>
+<p><em><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWsyZHZrNzUwemphcDc0eTZycGZmczNwN2x5eTM4ZHA0MmJid3p1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/se8tmt1xasC9ByWNau/giphy.gif" width="25" >  Open to collaborations, side-projects, or just a friendly chat!</em></p>
