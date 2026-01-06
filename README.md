@@ -9,7 +9,7 @@
 
 I'm a third-year Data Science student at the [Institute of Technology of Cambodia](https://itc.edu.kh/). Over the past two years, I’ve developed strong skills in data structures, problem-solving, and backend development. For example, I built a basic Point of Sale (POS) system. I’ve worked with Python, SQL, and machine learning tools, and I’m eager to keep learning through real-world projects.
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExank0dmlveWExeTl3Z2c1bGlwMnJ4dmsxdnZtNGhtcndpb255b3hpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LxuPCbE4XrH0wCXvWZ/giphy.gif" width="15"> Currently, I'm learning
+<img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExank0dmlveWExeTl3Z2c1bGlwMnJ4dmsxdnZtNGhtcndpb255b3hpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LxuPCbE4XrH0wCXvWZ/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBveHZhejhhOWJiNDlnY2NjOWRobjRwM3BtNDR2N3o0aXNhbzZzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Avrht57tUpKFfcUCny/giphy.gif)" width="15"> Currently, I'm learning
 - *Machine Learning*
 - *Data Analysis*
 - *Applied Mathematics*
