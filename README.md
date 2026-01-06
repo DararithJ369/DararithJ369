@@ -14,9 +14,9 @@ I'm a third-year Data Science student at the [Institute of Technology of Cambodi
 - *Data Analysis*
 - *Applied Mathematics*
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQ2eDJma21oZzBiNDJvdnVuOWtmbXM4OW55MjM1MmNvY3Z1am5yMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kBvJzDM1qZv3QPhabt/giphy.gif" width="15"> I'm enger to join new project
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZna2swdjJqM3dkYTJmd3lxdWkwNXR2anB0eGVvZ3c0ZnpjMGszNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9RAd4rdJQQsebBPKOM/giphy.gif" width="20"> I'm enger to join new project
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQzb294b2E5N2FxeGtxNTU2dXF6anF0b3FuZXliMHhqN2lvMXU4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AbTpg2l7tVn3mpsAU8/giphy.gif" width="15"> Happy to connect and help—don’t hesitate to ask if you need anything!
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2h6NXUzdDlwODFvcXpiem42MWo2ZjNkdDQzMDY1NzVyZWxkcmdncCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bUNAMmlCf34aZkMltP/giphy.gif" width="20"> Happy to connect and help—don’t hesitate to ask if you need anything!
 
 ### Contact Me <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtoMHc2dnQyandhZHQwbmd0djVqc2xwcHJnOXpudmc5NHgzaGNlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vVegyymxA90fkY8jkE/giphy.gif" width="25" >
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimputdararith@gmail.com)
