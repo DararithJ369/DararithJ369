@@ -7,12 +7,15 @@
 
 <img align="right" width="30%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZjcmpyaXZ1ZXJkYWpxaHdoams3OHQ1enEwbDBvdzU0aXk2ajFrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif">
 
-I'm a third-year Data Science student at the [Institute of Technology of Cambodia](https://itc.edu.kh/). Over the past two years, I’ve developed strong skills in data structures, problem-solving, and backend development. For example, I built a basic Point of Sale (POS) system. I’ve worked with Python, SQL, and machine learning tools, and I’m eager to keep learning through real-world projects.
+I'm a third-year Data Science student at the [Institute of Technology of Cambodia](https://itc.edu.kh/). Over the past two years, I’ve developed strong skills in data structures & algorithm, problem-solving, and backend development. I’ve worked with Python, SQL, and ML tools. I’m eager to keep learning through real-world projects and problems.
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBveHZhejhhOWJiNDlnY2NjOWRobjRwM3BtNDR2N3o0aXNhbzZzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Avrht57tUpKFfcUCny/giphy.gif" width="25"> Currently, I'm learning
+- *Applied Mathematics*
 - *Machine Learning*
 - *Data Analysis*
-- *Applied Mathematics*
+- *Statistics*
+- *Database*
+- *Web Dev*
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZna2swdjJqM3dkYTJmd3lxdWkwNXR2anB0eGVvZ3c0ZnpjMGszNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9RAd4rdJQQsebBPKOM/giphy.gif" width="20"> I'm enger to join new project
 
