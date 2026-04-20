@@ -40,6 +40,11 @@ I'm a third-year Data Science student at the [Institute of Technology of Cambodi
 ![PyTorch](https://img.shields.io/badge/pytorch-%23E34F26.svg?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
 <!-- #### ML/DL -->
 
+###### Database Management:
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -50,11 +55,6 @@ I'm a third-year Data Science student at the [Institute of Technology of Cambodi
 ![Flask](https://img.shields.io/badge/flask-%236DB33F.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/fastapi-6DA55F?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-django-%23Clojure?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-
-###### Database Management:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ###### Languages & Syntax:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
