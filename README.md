@@ -52,9 +52,9 @@ I'm a third-year Data Science student at the [Institute of Technology of Cambodi
 ###### Machine Learning & Data Science:
 ![Numpy](https://img.shields.io/badge/numpy-%230db7ed.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%46E3B7.svg?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/seaborn-6DA55F?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;
 ![Sklearn](https://img.shields.io/badge/-sklearn-%23Clojure?style=for-the-badge&logo=sklearn&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/pytorch-%23E34F26.svg?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
-![Seaborn](https://img.shields.io/badge/seaborn-6DA55F?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;
 <!-- #### ML/DL -->
 
 ###### Database Management:
