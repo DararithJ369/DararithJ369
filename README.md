@@ -42,12 +42,12 @@ I'm a third-year Data Science student at the [Institute of Technology of Cambodi
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp; -->
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp; 
 
 ###### Backend & Frameworks:
-<!-- ![Flask](https://img.shields.io/badge/flask-%236DB33F.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp; -->
+![Flask](https://img.shields.io/badge/flask-%236DB33F.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/fastapi-6DA55F?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
-<!-- ![Django](https://img.shields.io/badge/-django-%23Clojure?style=for-the-badge&logo=django&logoColor=white)&nbsp; -->
+![Django](https://img.shields.io/badge/-django-%23Clojure?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
 ###### Machine Learning & Data Science:
 ![Numpy](https://img.shields.io/badge/numpy-%230db7ed.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
@@ -60,7 +60,7 @@ I'm a third-year Data Science student at the [Institute of Technology of Cambodi
 ###### Database Management:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp; -->
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ###### Development Tools:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
