@@ -31,12 +31,14 @@ I'm a third-year Data Science student at the [Institute of Technology of Cambodi
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWsyZHZrNzUwemphcDc0eTZycGZmczNwN2x5eTM4ZHA0MmJid3p1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/se8tmt1xasC9ByWNau/giphy.gif" width="25" >  Open to collaborations, side-projects, or just a friendly chat!
 ### Skills <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdnZ2praGxid2Vpcmsxb2pqajRlcTR6bWlicTY4MjVkZ2luYmd2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="35">
-###### Languages & Syntax:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![LaTex](https://img.shields.io/badge/latex-3670A0?style=for-the-badge&logo=latex&logoColor=ffdd54)&nbsp;
 
+###### Machine Learning & Data Science:
+![Numpy](https://img.shields.io/badge/numpy-%230db7ed.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/matplotlib-%46E3B7.svg?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/seaborn-6DA55F?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;
+![Sklearn](https://img.shields.io/badge/-sklearn-%23Clojure?style=for-the-badge&logo=sklearn&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/pytorch-%23E34F26.svg?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
+<!-- #### ML/DL -->
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -49,18 +51,16 @@ I'm a third-year Data Science student at the [Institute of Technology of Cambodi
 ![FastAPI](https://img.shields.io/badge/fastapi-6DA55F?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-django-%23Clojure?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
-###### Machine Learning & Data Science:
-![Numpy](https://img.shields.io/badge/numpy-%230db7ed.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Matplotlib](https://img.shields.io/badge/matplotlib-%46E3B7.svg?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
-![Seaborn](https://img.shields.io/badge/seaborn-6DA55F?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;
-![Sklearn](https://img.shields.io/badge/-sklearn-%23Clojure?style=for-the-badge&logo=sklearn&logoColor=white)&nbsp;
-![PyTorch](https://img.shields.io/badge/pytorch-%23E34F26.svg?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
-<!-- #### ML/DL -->
-
 ###### Database Management:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+###### Languages & Syntax:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![LaTex](https://img.shields.io/badge/latex-3670A0?style=for-the-badge&logo=latex&logoColor=ffdd54)&nbsp;
 
 ###### Development Tools:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
