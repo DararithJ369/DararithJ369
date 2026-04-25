@@ -21,6 +21,8 @@ I'm a third-year Data Science student at the [Institute of Technology of Cambodi
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2h6NXUzdDlwODFvcXpiem42MWo2ZjNkdDQzMDY1NzVyZWxkcmdncCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bUNAMmlCf34aZkMltP/giphy.gif" width="20"> Happy to connect and help—don’t hesitate to ask if you need anything!
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWsyZHZrNzUwemphcDc0eTZycGZmczNwN2x5eTM4ZHA0MmJid3p1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/se8tmt1xasC9ByWNau/giphy.gif" width="25" >  Open to collaborations, side-projects, or just a friendly chat!
+
 ### Contact Me <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtoMHc2dnQyandhZHQwbmd0djVqc2xwcHJnOXpudmc5NHgzaGNlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vVegyymxA90fkY8jkE/giphy.gif" width="25" >
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimputdararith@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KimPutdararith)
@@ -29,7 +31,6 @@ I'm a third-year Data Science student at the [Institute of Technology of Cambodi
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nomoretruettt__)
 [![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jackie-8844)
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWsyZHZrNzUwemphcDc0eTZycGZmczNwN2x5eTM4ZHA0MmJid3p1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/se8tmt1xasC9ByWNau/giphy.gif" width="25" >  Open to collaborations, side-projects, or just a friendly chat!
 ### Skills <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdnZ2praGxid2Vpcmsxb2pqajRlcTR6bWlicTY4MjVkZ2luYmd2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="35">
 
 ###### Machine Learning & Data Science:
