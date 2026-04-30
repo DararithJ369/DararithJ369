@@ -1,5 +1,5 @@
 # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHl0aWxlazRramp0a3Z5ZzI1bHIweXRrZDh0bDhvczF1dWg5YXpicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="50"> [Dararith J.](https://github.com/DararithJ369/DararithJ369/)
-**`Aspiring Data Scientist | ML, Backend Dev, Problem Solver`**
+**`Aspiring Data Scientist | ML, Backend Dev`**
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
