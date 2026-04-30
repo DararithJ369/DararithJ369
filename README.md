@@ -7,7 +7,7 @@
 
 <img align="right" width="30%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZjcmpyaXZ1ZXJkYWpxaHdoams3OHQ1enEwbDBvdzU0aXk2ajFrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif">
 
-I'm a third-year Data Science student at the [Institute of Technology of Cambodia](https://itc.edu.kh/). Over the past two years, I’ve developed strong skills in data structures & algorithm, problem-solving, and backend development. I’ve worked with Python, SQL, and ML tools. I’m eager to keep learning through real-world projects and problems.
+I'm a third-year Data Science student at the [Institute of Technology of Cambodia](https://itc.edu.kh/). Over the past two years, I’ve developed strong skills in data structures & algorithm, problem-solving, and backend development(FastAPI). I’ve worked with Python, SQL, and ML tools. I’m eager to keep learning through real-world projects and problems.
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBveHZhejhhOWJiNDlnY2NjOWRobjRwM3BtNDR2N3o0aXNhbzZzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Avrht57tUpKFfcUCny/giphy.gif" width="25"> Currently, I'm learning
 - *Applied Mathematics*
